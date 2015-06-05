@@ -33,7 +33,7 @@
     
     }
     .twooh{
-      background: rgba(80,0,80,.8);
+      background: rgba(80,80,80,.8);
     max-width:600;
     text-align: left;
     margin:0 auto;
@@ -91,3 +91,6 @@
     a:focus{
       font-size: 25px;
     }
+.woopo{
+  width: auto;
+}
